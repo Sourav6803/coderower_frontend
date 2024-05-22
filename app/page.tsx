@@ -47,7 +47,7 @@ const Home:FC<Props> = (props) =>{
 
   return (
     <div className="min-h-screen">
-      <Heading title="E-Learning"  description="E-Learning is a platform for student" keywords="Programming, MERN, Backend"/>
+      <Heading title="Code-Rower"  description="Code roweris assignment" keywords="Programming, MERN, Backend"/>
       <Header />
       <div className="  mt-[25vh]">
         <div className="text-[32px] font-bold text-center text-blue-600">Fetch Config</div>
